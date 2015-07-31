@@ -1,5 +1,10 @@
 <resources>
 
+    <!-- Pagina login -->
     <string name="app_name">BoaViagem</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="erro_autenticacao">Usuário ou senha inválidos</string>
 
 </resources>
